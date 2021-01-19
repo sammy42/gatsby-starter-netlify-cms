@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex at Storefront 2021
+title: A beginners’ guide to brewing with Chemex at Storefront 2021 part 2
 date: 2021-01-19T13:17:48.633Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
